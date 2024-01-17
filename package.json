@@ -36,6 +36,7 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
+    "eslint-plugin-tailwindcss": "^3.14.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.3",
     "postcss": "^8",

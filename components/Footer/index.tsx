@@ -1,7 +1,7 @@
 import React, { FunctionComponent, ReactElement } from "react";
 
 const Footer: FunctionComponent = (): ReactElement => {
-  return <div>index test only</div>;
+  return <div>Test</div>;
 };
 
 export default Footer;
